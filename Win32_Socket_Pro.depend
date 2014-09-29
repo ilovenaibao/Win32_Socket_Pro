@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1338972213 source:f:\taylorgu\workspace_c++\win32_socket_pro\checkinput.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"CheckInput.h"
+
+1411984429 f:\taylorgu\workspace_c++\win32_socket_pro\checkinput.h
+
+1411984476 source:f:\taylorgu\workspace_c++\win32_socket_pro\serversocket_test.cpp
+	<winsock2.h>
+	<windef.h>
+	<stdio.h>
+	<conio.h>
+	<pthread.h>
+	"ServerSocket_test.h"
+	"CheckInput.h"
+
+1338099490 f:\taylorgu\workspace_c++\win32_socket_pro\include\pthread.h
+	<windows.h>
+	"config.h"
+	<time.h>
+	<signal.h>
+	<limits.h>
+	"need_errno.h"
+	<errno.h>
+	<sched.h>
+	<sys/types.h>
+
+1309316764 f:\taylorgu\workspace_c++\win32_socket_pro\include\sched.h
+	"need_errno.h"
+	<errno.h>
+	<sys/types.h>
+	<time.h>
+
+1411984485 f:\taylorgu\workspace_c++\win32_socket_pro\serversocket_test.h
+
+1411984307 source:f:\taylorgu\workspace_c++\win32_socket_pro\clientsocket_test.cpp
+	<stdio.h>
+	<conio.h>
+	<winsock2.h>
+	<windef.h>
+	<pthread.h>
+	"ClientSocket_test.h"
+	"CheckInput.h"
+
+1411984349 f:\taylorgu\workspace_c++\win32_socket_pro\clientsocket_test.h
+
